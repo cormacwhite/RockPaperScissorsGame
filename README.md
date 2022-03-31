@@ -50,5 +50,5 @@ Validator Testing
 
 Deployment
     The site was deployed to GitHub pages
-
+    The live link can be found here - https://cormacwhite.github.io/RockPaperScissorsGame/
 
